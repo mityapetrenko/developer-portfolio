@@ -1292,7 +1292,7 @@ blockquote:before {
 ==========================================================
 */
 .craste-resume-area {
-    background-image: url('../images/resume-bg.png');
+    /* background-image: url('../images/header-bg.png'); */
     position: relative;
     background-size: cover;
     background-position: center center;
